@@ -1,5 +1,9 @@
 # sistr --- A Singularity Container
 
+
+[![https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/1206)
+
+
 Singularity container for [sistr](https://github.com/peterk87/sistr_cmd)
 
 ## Pre-requisite
